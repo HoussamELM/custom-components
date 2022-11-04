@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25.002" height="25.002" viewBox="0 0 104 104">
+  <defs>
+    <image id="image" width="106" height="12" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAADCAYAAABmpKSeAAAAaElEQVQYla3PTQ6CUAwE4A9BE9/We3AeL+AhvB23YcPKLQikSV8krmkymf5Mpm2DN3p8sGD1iyUxJ38TUW+4pP6oqRyzO4YODzwPxmfHGJ8UvHDN7bfM44CY14trL9Am/+tqHR7BBdMODTYXMY29vtQAAAAASUVORK5CYII="/>
+  </defs>
+  <use id="bottom" x="-1" y="79" xlink:href="#image"/>
+  <use id="middle" x="-2" y="46" xlink:href="#image"/>
+  <use id="top" x="-2" y="13" xlink:href="#image"/>
+</svg>
